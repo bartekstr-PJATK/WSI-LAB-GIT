@@ -1,1 +1,2 @@
-"Name: Bartek Stróżyk"
+Name: Bartek Stróżyk
+University: PJATK
